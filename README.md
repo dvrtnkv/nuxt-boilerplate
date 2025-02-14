@@ -1,8 +1,8 @@
-# FirmFact Boilerplate
+# Nuxt Boilerplate
 
 ## Overview
 
-FirmFact is a Nuxt 3 boilerplate designed for building modern web applications with a structured project setup. It includes state management with Pinia, validation with Zod, and utility libraries for improved development.
+Nuxt 3 boilerplate designed for building modern web applications with a structured project setup. It includes state management with Pinia, validation with Zod, and utility libraries for improved development.
 
 ## Features
 
@@ -35,8 +35,8 @@ FirmFact is a Nuxt 3 boilerplate designed for building modern web applications w
 
 ```sh
 # Clone the repository
-git clone <repo_url>
-cd firmfact
+git clone https://github.com/dvrtnkv/nuxt-boilerplate.git
+cd nuxt-boilerplate
 
 # Install dependencies
 npm install

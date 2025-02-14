@@ -2,7 +2,7 @@
   const { title, title_chunk } = useData();
   useHead({
     htmlAttrs: {
-      lang: "ru",
+      lang: "en",
       class: "scroll-smooth",
     },
     titleTemplate: (titleChunk) => {
@@ -23,5 +23,7 @@
   });
 </script>
 <template>
-  <NuxtPage />
+  <div class="h-[100vh] flex items-center justify-center">
+    <NuxtPage />
+  </div>
 </template>
