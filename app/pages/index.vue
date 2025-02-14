@@ -2,4 +2,4 @@
   useHead({ title: null });
 </script>
 
-<template>home</template>
+<template>Happy coding to Ya!</template>
